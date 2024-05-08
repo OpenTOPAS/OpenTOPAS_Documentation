@@ -22,7 +22,7 @@ table.special tr:nth-child(2) {
 }
 
 table.special tr td:nth-child(1) {
-	width: 350px;
+	width: 310px;
 }
 
 /*Specifying heights of different table rows*/
