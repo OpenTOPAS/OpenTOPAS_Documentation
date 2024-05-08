@@ -1,0 +1,12 @@
+section { /* justify the entire section (excluding code blocks and tables) */
+    text-align: justify;
+}
+
+h1, h2, h3 { /* overwrite section justify and left align headings */
+    text-align: left;
+}
+
+blockquote { /* overwrite section justify and left align block quotes*/
+    text-align: left;
+}
+

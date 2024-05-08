@@ -1,0 +1,39 @@
+/* 1st table of authors
+####################################################################################
+*/
+
+table.special th {
+	background-color: white;
+	border: none;
+	border-radius: 40px;
+}
+
+table.special td {
+  border: none;
+}
+
+table.special {
+	border-radius: 15px;
+	overflow: hidden
+}
+
+table.special tr:nth-child(2) {
+	border-top: solid thick;
+}
+
+table.special tr td:nth-child(1) {
+	width: 350px;
+}
+
+/*Specifying heights of different table rows*/
+table.special tr:nth-child(2), tr:nth-child(4), tr:nth-child(7), tr:nth-child(11), tr:nth-child(13) {
+	height: 25px;
+}
+
+/* #################################################################################### */
+
+/*Documentaion authors table*/
+table.authors {
+	margin-left: 0px;
+	margin-right: auto;
+}
