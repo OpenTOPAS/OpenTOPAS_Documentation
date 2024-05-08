@@ -122,7 +122,7 @@ todo_include_todos = False
 html_theme = 'furo'
 
 html_theme_options = {
-    "source_repository": "https://github.com/OpenTOPAS/Documentation",
+    "source_repository": "https://github.com/OpenTOPAS/OpenTOPAS_Documentation",
     "source_branch": "main",
     "announcement": "<b>Important</b> announcement!<br> The ReadTheDocs is still under construction. Please be patient while we update the OpenTOPAS documentation."
     " In the meantime don't hesitate to post any questions you may have to the <a href='https://github.com/OpenTOPAS/OpenTOPAS/discussions'>Discussions</a> tab of the "
