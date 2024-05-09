@@ -28,6 +28,7 @@ To discover the Geant4 version used by a specific version of OpenTOPAS, please c
     :caption: Simulation Control
 
     parameters/intro
+    examples-docs/MVLinac/intro
 
 
 .. toctree::

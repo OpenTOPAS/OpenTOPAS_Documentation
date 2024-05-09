@@ -1,5 +1,5 @@
 Linear Accelerator Treatment Head Simulation
---------------------------------------------
+=============================================
 
 This example is intended for both demonstration purposes and to provide an excellent starting point for simulation of most the treatment head of most any linear accelerator (linac) used in radiotherapy. A Siemens Oncor treatment head is simulated. The co-ordinate systems, shown in the figure below, are in compliance with IEC 61217. Note that the use of directional bremsstrahlung splitting and other variance reduction techniques (VRTs), essential for efficient simulation, requires a gantry angle of zero degrees; that is, the region used to specify the preferred bremsstrahlung direction is positioned along (Z\ :sub:`W`\ ), the Z axis in the Geant4 world co-ordinate system.
 

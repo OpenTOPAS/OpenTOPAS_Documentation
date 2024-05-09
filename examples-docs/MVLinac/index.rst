@@ -4,7 +4,6 @@ MVLinac
 .. toctree::
 	:maxdepth: 1
 
-	intro
 	Field
 	FixedTxHead
 	Flattener6MV
