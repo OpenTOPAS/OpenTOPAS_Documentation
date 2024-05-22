@@ -176,7 +176,7 @@ Scorer
 The following should be included in your ``scorer.txt`` parameter file::
 
     #============== CBCT Scorer ========
-    s:Sc/CBCTscorer/Quantity                   = "CBCScorer"
+    s:Sc/CBCTscorer/Quantity                   = "CBCTScorer"
     s:Sc/CBCTscorer/Component                  = "CBCTImager"
     s:Sc/CBCTscorer/Surface                    = "CBCTImager/PhotoDetectorScintillatorInterface"
     s:Sc/CBCTscorer/OutputType                 = "binary"
