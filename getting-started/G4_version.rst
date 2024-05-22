@@ -15,7 +15,7 @@ For information pertaining to the appropriate Geant4 version/release notes of ea
 
 .. warning::
 
-    Extensive testing for compatability with specific Geant4 versions is carried out by the OpenTOPAS collaboration. We therefore cannot guarantee proper functioning for an OpenTOPAS version built with a Geant4 version other than is listed in the table above.
+    Extensive testing for compatibility with specific Geant4 versions is carried out by the OpenTOPAS collaboration. We therefore cannot guarantee proper functioning for an OpenTOPAS version built with a Geant4 version other than is listed in the table above.
 
 
 .. _OpenTOPAS: https://github.com/OpenTOPAS/OpenTOPAS
