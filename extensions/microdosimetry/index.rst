@@ -1,7 +1,7 @@
 .. _microdosimetry:
 
 Microdosimetry Extension
-=================
+========================
 
 The current version of the OpenTOPAS microdosimetry extension includes scorers to retrieve microdosimetric spectra from primary and secondary particles. The extension is  available on the OpenTOPAS GitHub_ page. The included examples show how to score RBE with a biological weighting function or with the microdosimetric kinetic model (MKM). Two geometries of tissue equivalent proportional counter (TEPC) are provided. The extension was validated in the following reference. 
 

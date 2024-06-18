@@ -1,5 +1,5 @@
 OpenTOPAS (previously TOPAS) user meeting at PTCOG
-===============================
+==================================================
 Are you attending PTCOG? Then come join us for an OpenTOPAS user meeting.
 
 .. figure:: images/UserMeetingFlyerPTCOG.png

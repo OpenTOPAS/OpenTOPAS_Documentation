@@ -9,5 +9,6 @@ Installation instructions for the latest OpenTOPAS version are provided in the Q
 
 	MacOS
 	Debian
+	WSL
 
 .. _GitHub: https://github.com/OpenTOPAS/OpenTOPAS
